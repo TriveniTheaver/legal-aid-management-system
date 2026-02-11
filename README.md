@@ -3,11 +3,41 @@
 ## Overview
 
 The Legal Aid Management System is a full-stack web application developed to manage legal cases, client information, and case records efficiently. This system helps legal staff maintain digital records and perform case management operations.
-## 📸 Screenshots
-<div align="center">
-  <img src="screenshots/Home.png" width="45%" />
-  
-</div>
+## 📸 Application Screenshots
+
+### 🏠 Home & Authentication
+| Login | Home Page |
+|-------|-----------|
+| ![Login](screenshots/Login.png) | ![Home](screenshots/Home.png) |
+
+### 📊 Dashboard & Navigation
+| Client Dashboard | Footer |
+|------------------|--------|
+| ![Client Dashboard](screenshots/Client Dashboard.png) | ![Footer](screenshots/Footer.png) |
+
+### ⚖️ Case Management
+| Case Filing Form | Case Details + Chat |
+|------------------|---------------------|
+| ![Case Filing Form](screenshots/Case filing form.png) | ![Case Details](screenshots/Case details+ chat with lawyer.png) |
+
+### 📄 Document Tools
+| Generate Legal Docs | Manage Docs Section | Legal Docs Templates |
+|---------------------|---------------------|----------------------|
+| ![Generate Docs](screenshots/Generate legal docs section.png) | ![Manage Docs](screenshots/Manage Docs section.png) | ![Templates](screenshots/Legal docs templates.png) |
+
+### 🎓 Legal Education Hub
+| Education Hub (Client/Lawyer) | Education Hub (Case Types) |
+|-------------------------------|----------------------------|
+| ![Education Hub Client/Lawyer](screenshots/Legal Education Hub-client and lawyer jo....png) | ![Education Hub Case Types](screenshots/Legal Education Hub-case types.png) |
+
+### ⚡ Additional Features
+| Feature | Screenshot |
+|---------|------------|
+| **Chat Assistance** | ![Chat Assistance](screenshots/Chat Assistance.png) |
+| **Download Case PDF** | ![Download PDF](screenshots/Download case pdf.png) |
+| **Interactive Map** | ![Interactive Map](screenshots/Interactive Map.png) |
+| **Pre Court Checklist** | ![Pre Court](screenshots/Pre court check list(todo).png) |
+| **Rate Lawyer Section** | ![Rate Lawyer](screenshots/Rate lawyer section.png) |
 
 ## Technologies Used
 
