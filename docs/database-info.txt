@@ -1,0 +1,82 @@
+# Database Documentation
+
+**Database Name:** LegalAid Sri Lanka
+**Database Type:** MongoDB
+**Hosting:** MongoDB Atlas (Cloud)
+
+## Collections
+
+### User & Authentication
+
+* usermodels
+* staffs
+* verifiedclients
+* verifiedlawyers
+* unverifiedclients
+* unverifiedlawyers
+* verifications
+
+### Case Management
+
+* casemodels
+* casetrackings
+* caseupdates
+* caselawyerassignments
+* scheduledcases
+* archivedcasemetadata
+
+### Lawyer & Assignment
+
+* lawyerassignments
+* lawyersalaries
+
+### Court & Scheduling
+
+* courtschedulequeues
+* courtvacations
+* legaldeadlines
+* legalholidays
+* adjournmentrequests
+
+### Documents
+
+* documents
+* documenttemplates
+* generateddocuments
+* courtfilings
+
+### Services
+
+* servicerequests
+* individualservicerequests
+* individualservices
+* servicepackages
+
+### Financial
+
+* paymenttransactions
+* financialaidrequests
+
+### Communication & Notifications
+
+* notifications
+* chats
+* chatbots
+* announcements
+* emails
+* emailsettings
+* emailreporthistories
+
+### Monitoring & Feedback
+
+* activitylogs
+* checklists
+* ratings
+* feedbacks
+
+---
+
+## Note
+
+* The database is hosted securely on MongoDB Atlas.
+* The application connects using environment variables (.env).
