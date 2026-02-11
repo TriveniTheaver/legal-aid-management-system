@@ -3,6 +3,11 @@
 ## Overview
 
 The Legal Aid Management System is a full-stack web application developed to manage legal cases, client information, and case records efficiently. This system helps legal staff maintain digital records and perform case management operations.
+## 📸 Screenshots
+<div align="center">
+  <img src="screenshots/Home.png" width="45%" />
+  
+</div>
 
 ## Technologies Used
 
