@@ -13,31 +13,37 @@ The Legal Aid Management System is a full-stack web application developed to man
 ### 📊 Dashboard & Navigation
 | Client Dashboard | Footer |
 |------------------|--------|
-| ![Client Dashboard](screenshots/Client Dashboard.png) | ![Footer](screenshots/Footer.png) |
+| ![Client Dashboard](screenshots/Client%20Dashboard.png) | ![Footer](screenshots/Footer.png) |
 
 ### ⚖️ Case Management
 | Case Filing Form | Case Details + Chat |
 |------------------|---------------------|
-| ![Case Filing Form](screenshots/Case filing form.png) | ![Case Details](screenshots/Case details+ chat with lawyer.png) |
+| ![Case Filing Form](screenshots/Case%20filing%20form.png) | ![Case Details](screenshots/Case%20details+%20chat%20with%20lawyer.png) |
+
+### 💬 Communication
+| Chat Assistance | Interactive Map |
+|-----------------|-----------------|
+| ![Chat Assistance](screenshots/Chat%20Assistance.png) | ![Interactive Map](screenshots/Interactive%20Map.png) |
 
 ### 📄 Document Tools
 | Generate Legal Docs | Manage Docs Section | Legal Docs Templates |
 |---------------------|---------------------|----------------------|
-| ![Generate Docs](screenshots/Generate legal docs section.png) | ![Manage Docs](screenshots/Manage Docs section.png) | ![Templates](screenshots/Legal docs templates.png) |
+| ![Generate Docs](screenshots/Generate%20legal%20docs%20section.png) | ![Manage Docs](screenshots/Manage%20Docs%20section.png) | ![Templates](screenshots/Legal%20docs%20templates.png) |
+
+### 📑 PDF & Checklist
+| Download Case PDF | Pre Court Checklist |
+|-------------------|---------------------|
+| ![Download PDF](screenshots/Download%20case%20pdf.png) | ![Pre Court](screenshots/Pre%20court%20check%20list(todo).png) |
 
 ### 🎓 Legal Education Hub
-| Education Hub (Client/Lawyer) | Education Hub (Case Types) |
-|-------------------------------|----------------------------|
-| ![Education Hub Client/Lawyer](screenshots/Legal Education Hub-client and lawyer jo....png) | ![Education Hub Case Types](screenshots/Legal Education Hub-case types.png) |
+| Client/Lawyer Join | Case Types |
+|--------------------|------------|
+| ![Education Hub Client/Lawyer](screenshots/Legal%20Education%20Hub-client%20and%20lawyer%20jo....png) | ![Education Hub Case Types](screenshots/Legal%20Education%20Hub-case%20types.png) |
 
-### ⚡ Additional Features
-| Feature | Screenshot |
-|---------|------------|
-| **Chat Assistance** | ![Chat Assistance](screenshots/Chat Assistance.png) |
-| **Download Case PDF** | ![Download PDF](screenshots/Download case pdf.png) |
-| **Interactive Map** | ![Interactive Map](screenshots/Interactive Map.png) |
-| **Pre Court Checklist** | ![Pre Court](screenshots/Pre court check list(todo).png) |
-| **Rate Lawyer Section** | ![Rate Lawyer](screenshots/Rate lawyer section.png) |
+### ⭐ Rating System
+| Rate Lawyer Section |
+|---------------------|
+| ![Rate Lawyer](screenshots/Rate%20lawyer%20section.png) |
 
 ## Technologies Used
 
