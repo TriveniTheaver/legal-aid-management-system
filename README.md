@@ -6,9 +6,9 @@ The Legal Aid Management System is a full-stack web application developed to man
 ## 📸 Application Screenshots
 
 ### 🏠 Home & Authentication
-| Login | Home Page |
+| Home Page | Login |
 |-------|-----------|
-| ![Login](screenshots/Login.png) | ![Home](screenshots/Home.png) |
+| ![Home](screenshots/Home.png) | ![Login](screenshots/Login.png) |
 
 ### 📊 Dashboard & Navigation
 | Client Dashboard | Footer |
@@ -35,15 +35,7 @@ The Legal Aid Management System is a full-stack web application developed to man
 |-------------------|---------------------|
 | ![Download PDF](screenshots/Download%20case%20pdf.png) | ![Pre Court](screenshots/Pre%20court%20check%20list(todo).png) |
 
-### 🎓 Legal Education Hub
-| Client/Lawyer Join | Case Types |
-|--------------------|------------|
-| ![Education Hub Client/Lawyer](screenshots/Legal%20Education%20Hub-client%20and%20lawyer%20jo....png) | ![Education Hub Case Types](screenshots/Legal%20Education%20Hub-case%20types.png) |
 
-### ⭐ Rating System
-| Rate Lawyer Section |
-|---------------------|
-| ![Rate Lawyer](screenshots/Rate%20lawyer%20section.png) |
 
 ## Technologies Used
 
