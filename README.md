@@ -62,5 +62,5 @@ http://localhost:3000
 
 ## Note
 
-This project was developed as a university group assignmentby 4 members including me.
-**
+**This project was developed as a university group assignmentby 4 members including me.**
+
