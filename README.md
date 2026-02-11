@@ -1,4 +1,4 @@
-**# Legal Aid Management System (MERN)
+### Legal Aid Management System (MERN)
 
 ## Overview
 
